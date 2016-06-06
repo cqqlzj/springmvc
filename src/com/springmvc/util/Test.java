@@ -11,7 +11,7 @@ public class Test {
 		map.put("a", new Person("qq", 12));
 		map.put("a", new Person());
 		map.put("a", new Person("dd", 11));
-		map.put("a", new Person("devtest", 11));
+		map.put("a", new Person("mastertest", 11));
 		System.out.println(map.get("a"));
 	}
 
